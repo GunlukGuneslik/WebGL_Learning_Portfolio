@@ -56,7 +56,7 @@ Saved JSON files contain the grid resolution, drawing history, current fill colo
 
 This project was developed for a Computer Graphics course. The painting application code is separate from the following utilities provided with course examples:
 
-- **MV.js and initShaders.js:** Utilities associated with Edward Angel and Dave Shreiner's *Interactive Computer Graphics: A Top-Down Approach with WebGL*. [Original reference](https://www.cs.unm.edu/~angel/WebGL/7E/Common/).
+- **MV.js and initShaders.js:** Utilities associated with Edward Angel and Dave Shreiner's *Interactive Computer Graphics: A Top-Down Approach with WebGL*.
 - **webgl-utils.js:** WebGL utility code carrying a Google Inc. copyright notice and BSD-style redistribution terms. The original copyright and license notice must be preserved.
 
-These third-party files are not claimed as original project work. Their redistribution is subject to the rights and permissions of their respective copyright holders. Distribution with classroom examples does not itself establish permission for public redistribution.
+These third-party files are not claimed as original project work.
